@@ -3,7 +3,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://github.com/zoarsh/DS20-basic-ML-project--Hydraulic-Hooligans/blob/main/Version8%20-%207Sub.ipynb)
 
-📒** Notebook Contents (presentation.ipynb)**
+**📒Notebook Contents (presentation.ipynb)**
 
 Data Overview & Initial Checks – schema sanity, distributions, missingness.
 
@@ -17,7 +17,7 @@ Evaluation – RMSE/MAE, residual plots, price‑by‑year boxplots.
 
 Next Steps – ideas for tuning and richer features.
 
-🖼️** Slides**
+**🖼️ Slides**
 
 PowerPoint decks live in slides/. Export figures from the notebook into figs/ and paste into the slides.
 
@@ -49,11 +49,11 @@ Codebook – variable definitions, missing‑value handling, encodings (OHE/labe
 
  Team documentation (Project Log / Codebook) — to be linked
 
-📄 **License
-**
+**📄 License**
+
 MIT (or adjust as needed in a LICENSE file).
 
-🙏 **Acknowledgments
-**
+**🙏 Acknowledgments**
+
 Thanks to the course staff and cohort. Tools used: Google Colab, scikit‑learn, matplotlib, pandas.
 """
