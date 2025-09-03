@@ -50,9 +50,8 @@ Codebook – variable definitions, missing‑value handling, encodings (OHE/labe
  Team documentation (Project Log / Codebook) — to be linked
 
 **📄 License**
-
-MIT (or adjust as needed in a LICENSE file).
-
+Public
+פונךןב 
 **🙏 Acknowledgments**
 
 Thanks to the course staff and cohort. Tools used: Google Colab, scikit‑learn, matplotlib, pandas.
