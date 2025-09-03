@@ -51,7 +51,7 @@ Codebook – variable definitions, missing‑value handling, encodings (OHE/labe
 
 **📄 License**
 Public
-פונךןב 
+
 **🙏 Acknowledgments**
 
 Thanks to the course staff and cohort. Tools used: Google Colab, scikit‑learn, matplotlib, pandas.
